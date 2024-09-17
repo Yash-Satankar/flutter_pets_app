@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497447698478",
+    "project_id": "pets-app-7935b",
+    "storage_bucket": "pets-app-7935b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497447698478:android:135e1d91e4d9da0a01dfbf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_pets_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4cXhQZfB1EhqYbXiKUQMKjvfAruxA4LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
