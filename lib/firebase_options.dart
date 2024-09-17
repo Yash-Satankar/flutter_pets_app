@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA4cXhQZfB1EhqYbXiKUQMKjvfAruxA4LE',
-    appId: '1:497447698478:android:135e1d91e4d9da0a01dfbf',
-    messagingSenderId: '497447698478',
-    projectId: 'pets-app-7935b',
-    storageBucket: 'pets-app-7935b.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 }
